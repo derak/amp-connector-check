@@ -1,4 +1,7 @@
 # amp-connector-check
+
+[![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/derak/amp-connector-check)
+
 Check all endpoints to see if Cisco AMP connector was uninstalled
 
 ## Usage
